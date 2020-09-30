@@ -1,4 +1,4 @@
-# Ember Website
+# Ember Website, a Modern Technology
 This is the legacy repository for the [Ember.js public website](https://emberjs.com). 
 
 You can find the current repositories here:
